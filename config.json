@@ -1,6 +1,7 @@
 {
 	"ip":"damertest.aternos.me",
-	"port": 58015,
+	"port": 
+	,
 	"name": "afkbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
